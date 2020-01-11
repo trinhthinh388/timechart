@@ -1,0 +1,22 @@
+.list-subject:hover{
+    background: #808F85;
+}
+
+.list-subject.custom-active{
+    background: #91C499;
+}
+
+
+.text-subject{
+    color: #D34E24;
+    font-weight: bolder;
+}
+
+.hide {
+  opacity: 0;
+}
+
+.animation{
+  transition: all 0.3s ease-in-out;
+}
+
