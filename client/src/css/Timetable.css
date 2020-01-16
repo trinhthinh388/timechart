@@ -1,0 +1,11 @@
+.dialog{
+    top: 10%;
+    left: 50%;
+    width: 80%;
+    margin-left: -40%;
+    background: white;
+}
+
+.word-wrap{
+    word-wrap: break-word;
+}
